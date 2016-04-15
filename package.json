@@ -1,0 +1,19 @@
+{
+  "name": "ripple-experiment",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ripple-lib": "*",
+    "babel-cli": "^6.0.0",
+    "babel-preset-es2015": "*",
+    "minimist": "*"
+  },
+  "babel": {
+    "presets": ["es2015"]
+  },
+  "devDependencies": {
+    "eslint": "*"
+  }
+}
+
